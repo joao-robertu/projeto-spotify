@@ -3,7 +3,7 @@
   max-width: 100vw;
   height: 90vh;
   margin-left: 320px;
-  margin-right: 6px;
+  margin-right: 5px;
 }
 
 /* DISPLAY * TOTAL e vamos passar rapidamente por cada um deles
@@ -215,6 +215,9 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
 }
 
 /* COLOR CARDS */
+.card0 {
+background-color: #6a6a6a;
+}
 .card1 {
   background-color: rgb(0, 100, 80);
 }
